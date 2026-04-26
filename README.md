@@ -14,7 +14,8 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,django,postgres,mongodb,docker,aws,git,linux,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,react,nextjs,nodejs,express,postgres,mongodb,docker,git,linux,vscode" alt="tech stack" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
 </p>
 
 ## GitHub Dashboard
