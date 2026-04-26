@@ -1,4 +1,4 @@
-# Hasan Zafzal
+# Hasan Zahid Afzal
 
 
 <p align="center">
