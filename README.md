@@ -1,8 +1,5 @@
 # Hasan Zafzal
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+clean+and+scalable+software;Always+learning+new+tech" alt="Typing intro" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hasanzafzal&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
